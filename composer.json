@@ -1,0 +1,40 @@
+{
+    "name": "josephcrowell/wn-leafletmap-plugin",
+    "type": "winter-plugin",
+    "description": "Leaflet Maps for Winter CMS",
+    "keywords": [
+        "winter",
+        "cms",
+        "wintercms",
+        "leaflet",
+        "openstreetmap",
+        "maps"
+    ],
+    "homepage": "https://github.com/josephcrowell/wn-leafletmap-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Redmarlin",
+            "homepage": "https://redmarlin.net",
+            "role": "Original Author"
+        },
+        {
+            "name": "Joseph Crowell",
+            "email": "joseph.w.crowell@gmail.com",
+            "homepage": "https://computerlink.com.au",
+            "role": "Author"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JosephCrowell\\LeafletMap\\": ""
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0",
+        "winter/wn-translate-plugin": "^2.0",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
