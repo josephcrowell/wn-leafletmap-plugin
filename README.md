@@ -21,7 +21,7 @@ For most use cases this should be more than enough.
 
 ### Install the plugin directly from Composer
 
-Type *componser require josephcrowell/wn-leafletmap-plugin* from the Winter CMS root directory and Composer will install the plugin
+Type *composer require josephcrowell/wn-leafletmap-plugin* from the Winter CMS root directory and Composer will install the plugin
 
 ### Download the plugin directly from [Github](https://github.com/josephcrowell/wn-leafletmap-plugin)
 
