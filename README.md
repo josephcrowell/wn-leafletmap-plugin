@@ -14,7 +14,6 @@ For most use cases this should be more than enough.
 * Uses the latest Leaflet from CDN
 * You can customize map center, zoom, marker location and marker popup text
 * Only one marker possible at this time
-* All js, css and img files are included in the plugin
 * Zoom control, zoom by scroll can be disabled until clicked on the map
 
 ## Installation
