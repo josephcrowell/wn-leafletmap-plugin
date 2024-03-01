@@ -59,14 +59,14 @@ Mouse scroll to set desired zoom level.
 When everything is set click on the Share icon on the right side of the screen.
 In the Geo URI check this string:
 
-```
+```text
 geo:41.6591,-4.7287?z=15
 ```
 
 Paste the selected numbers to Component settings. The *?z=15* defines the zoom level (15 in the example).
 Alternatively you could just check the link bar of your browser:
 
-```
+```text
 map=15/41.6591/-4.7287
 ```
 
