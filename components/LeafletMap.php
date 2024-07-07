@@ -58,8 +58,8 @@ class LeafletMap extends ComponentBase
                 'default' => 'false',
                 'type' => 'dropdown',
                 'options' => [
-                    "false" => "josephcrowell.leafletmap::lang.components.leafletmap.scrollProtection.controlson",
-                    "true" => "josephcrowell.leafletmap::lang.components.leafletmap.scrollProtection.controlsoff",
+                    'false' => 'josephcrowell.leafletmap::lang.components.leafletmap.scrollProtection.controlson',
+                    'true' => 'josephcrowell.leafletmap::lang.components.leafletmap.scrollProtection.controlsoff',
                 ],
             ],
             'width' => [
